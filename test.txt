@@ -1,1 +1,1 @@
-city: kandy
+city: colombo
